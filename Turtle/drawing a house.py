@@ -1,5 +1,5 @@
 ## Project Gabut
-## Drawing a Houae with Turtle Graphics
+## Drawing a House with Turtle Graphics
 ## Code by me
 
 import turtle
